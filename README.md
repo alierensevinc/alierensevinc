@@ -4,6 +4,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=ionicrssreader&theme=react)](https://github.com/alierensevinc/ionicrssreader)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=giftt&theme=react)](https://github.com/alierensevinc/ionicrssreader)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierensevinc&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
