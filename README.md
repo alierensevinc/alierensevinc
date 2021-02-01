@@ -6,6 +6,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=giftt&theme=react)](https://github.com/alierensevinc/giftt)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=bmi-calculator-flutter&theme=react)](https://github.com/alierensevinc/bmi-calculator-flutter)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierensevinc&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
