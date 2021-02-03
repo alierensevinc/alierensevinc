@@ -8,6 +8,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=bmi-calculator-flutter&theme=react)](https://github.com/alierensevinc/bmi-calculator-flutter)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=Bitcoin-Tracker&theme=react)](https://github.com/alierensevinc/Bitcoin-Tracker)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierensevinc&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
