@@ -10,6 +10,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=Bitcoin-Tracker&theme=react)](https://github.com/alierensevinc/Bitcoin-Tracker)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=lightsout&theme=react)](https://github.com/alierensevinc/lightsout)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierensevinc&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
