@@ -1,19 +1,13 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alierensevinc&show_icons=true&theme=react&count_private=true&hide=contribs,prs,issues)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=janblog&theme=react)](https://github.com/alierensevinc/janblog)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=ionicrssreader&theme=react)](https://github.com/alierensevinc/ionicrssreader)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=giftt&theme=react)](https://github.com/alierensevinc/giftt)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=bmi-calculator-flutter&theme=react)](https://github.com/alierensevinc/bmi-calculator-flutter)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=Bitcoin-Tracker&theme=react)](https://github.com/alierensevinc/Bitcoin-Tracker)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=lightsout&theme=react)](https://github.com/alierensevinc/lightsout)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierensevinc&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
+| Stats and Projects |
+| --- |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alierensevinc&show_icons=true&theme=react&count_private=true&hide=contribs,prs,issues) |
+| [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alierensevinc&theme=react)](https://github.com/anuraghazra/github-readme-stats) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=janblog&theme=react)](https://github.com/alierensevinc/janblog) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=ionicrssreader&theme=react)](https://github.com/alierensevinc/ionicrssreader) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=giftt&theme=react)](https://github.com/alierensevinc/giftt) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=bmi-calculator-flutter&theme=react)](https://github.com/alierensevinc/bmi-calculator-flutter) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=Bitcoin-Tracker&theme=react)](https://github.com/alierensevinc/Bitcoin-Tracker) |
+| [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=alierensevinc&repo=lightsout&theme=react)](https://github.com/alierensevinc/lightsout) |
 
 | Icon | Package Name | App Name |
 | --- | --- | --- |
