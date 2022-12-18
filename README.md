@@ -13,3 +13,4 @@
 | ![App Logo](https://play-lh.googleusercontent.com/dtY7EbKNhVEGXYJMVrb8Uprb9xSjb4Wri_vBKr_8H4wnejfgUmsT6Mxr7lFYTDxXQ2k=s128-rw) | com.alierensevinc.spaceexplorer | [Space Explorer](https://play.google.com/store/apps/details?id=com.alierensevinc.spaceexplorer)
 | :rocket:   PWA | :rocket:   alierensevinc-rss-reader | [AliErenSevinc Rss Reader](https://alierensevinc-rss-reader.herokuapp.com/)
 | :rocket:   PWA | :rocket:   f1-schedule | [F1 Schedule](https://f1-schedule.web.app/home)
+| :rocket:   PWA | :rocket:   free-epic-games | [Free Epic Games](https://free-epic-games.web.app/home)
