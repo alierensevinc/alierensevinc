@@ -3,6 +3,7 @@
 | Icon | Package Name | App Name |
 | --- | --- | --- |
 | ![App Logo](https://play-lh.googleusercontent.com/dtY7EbKNhVEGXYJMVrb8Uprb9xSjb4Wri_vBKr_8H4wnejfgUmsT6Mxr7lFYTDxXQ2k=s128-rw) | com.alierensevinc.spaceexplorer | [Space Explorer](https://play.google.com/store/apps/details?id=com.alierensevinc.spaceexplorer)
+| ![App Logo](https://play-lh.googleusercontent.com/etV7ZthWGcS_7-vM2u06cvTMo9tEzS-fDyqlosyZbmipFnqZU1CI3m9f0Qs-KD8V8Hpf=s128-rw) | com.alierensevinc.freeepicgames | [Free Epic Games Tracker](https://play.google.com/store/apps/details?id=com.alierensevinc.freeepicgames)
 | ![App Logo](https://play-lh.googleusercontent.com/awgcK4tqI94g1mhnzF57rmvK4yLrzTf5idfziuyWnbin0zZvWdehM7dYt6ZXvlybg3k=s128-rw) | com.alierensevinc.homeworkout | [Home Workout - Get Lean in 14 Days](https://play.google.com/store/apps/details?id=com.alierensevinc.homeworkout)
 | ![App Logo](https://play-lh.googleusercontent.com/fElm_a7q3wCh_SvdWi5Lk1O4AIAEv-5B2xiE6j6bBnlhOYATxRyz6tf1AiXzBQtH2w=s128-rw) | com.alierensevinc.justjump | [Just Jump](https://play.google.com/store/apps/details?id=com.alierensevinc.justjump)
 | ![App Logo](https://play-lh.googleusercontent.com/zkTap0PXwVlFjeNDCh3ipicLKU4ZvWHvSN5JQKjQ_lkdlW2iYBvO1ATDm8qEIPxwA_Y=s128-rw) | com.alierensevinc.breathein2 | [BreatheIN](https://play.google.com/store/apps/details?id=com.alierensevinc.breathein2)
