@@ -89,3 +89,12 @@ A simple and effective scorer for tennis matches.
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="150">
   </a>
 </p>
+
+
+#### **Anlık Gram Altın Fiyatları**
+A simple tracker for current gram gold prices.
+<p>
+  <a href="https://apps.apple.com/tr/app/anl%C4%B1k-gram-alt%C4%B1n-fiyatlar%C4%B1/id6754817948" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="150">
+  </a>
+</p>
