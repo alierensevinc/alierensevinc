@@ -90,6 +90,7 @@ A simple and effective scorer for tennis matches.
   </a>
 </p>
 
+---
 
 #### **Anlık Gram Altın Fiyatları**
 A simple tracker for current gram gold prices.
@@ -98,3 +99,4 @@ A simple tracker for current gram gold prices.
     <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="150">
   </a>
 </p>
+
