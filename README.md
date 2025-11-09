@@ -100,3 +100,5 @@ A simple tracker for current gram gold prices.
   </a>
 </p>
 
+---
+
