@@ -42,6 +42,16 @@
 
 Here are some of the apps I've developed and published using React Native & Expo:
 
+#### **OpenTune: Guitar Tuner**
+A simple, accurate, and easy-to-use guitar tuner for musicians.
+<p>
+  <a href="https://apps.apple.com/us/app/opentune-guitar-tuner/id6757105393" target="_blank">
+    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" width="150">
+  </a>
+</p>
+
+---
+
 #### **Midoku - 6x6 Mini Sudoku**
 A fun and simple 6x6 mini Sudoku game.
 <p>
